@@ -1,4 +1,4 @@
-### Hi there 👋<img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47n5mhk7697kik87yg685bfn6uw2f55uld6ped8g1t&rid=giphy.gif&ct=g">
+### Hi there <img src="https://github.com/SouthernPark/SouthernPark/blob/main/giphy.gif" width=20% height=20%>
 
 I am Qiangqiang(Leo) Liu, a second-year ECE graduate at Duke University.
 
