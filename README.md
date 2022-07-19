@@ -9,3 +9,6 @@ I am Qiangqiang(Leo) Liu, a second-year ECE graduate at Duke University.
 - 📫 How to reach me: :link:[Linkedin](https://www.linkedin.com/in/qiangqiangliu/?locale=en_US)
 - ⚡ Fun fact: :heart_on_fire: :video_game: League of Legend, but play bad :joy:
 
+My personal website: 
+qiangqiangl.com
+
