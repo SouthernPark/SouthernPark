@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/SouthernPark/SouthernPark/blob/main/hi.gif" width=10% height=10%>
 
-I am Qiangqiang(Leo) Liu, a second-year ECE graduate at Duke University.
+I am Qiangqiang Liu, a second-year ECE graduate at Duke University.
 
 - 🔭 I’m currently working at Juniper Networks and writing testing tools for routers.
 - 🌱 I’m currently learning Expect and Bash Script.
